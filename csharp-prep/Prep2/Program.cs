@@ -31,7 +31,7 @@ else
 
 int lastNumber = grade % 10;
 string sign = "";
-if (letter != "A" && letter != "F") ;
+if (letter != "A" && letter != "F")
 if (lastNumber >= 7)
 {
     sign = "+";
